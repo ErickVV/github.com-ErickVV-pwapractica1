@@ -1,0 +1,39 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #81cef1;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            padding: 20px;
+        }
+
+        .box {
+            color: antiquewhite;
+            background-color: #89fa72;
+            width: 500px;
+            padding: 50px;
+            margin: 50px;
+            display: inline-block;
+            border: 2px solid #007BFF;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #f537dc;
+        }
+        .info {
+            text-align: center;
+            padding: 20px;
+            background-color: #929e83;
+            color: rgb(3, 3, 3);
+        }
